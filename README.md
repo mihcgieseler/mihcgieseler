@@ -1,7 +1,7 @@
 Olá, eu me chamo Michelle 👋<br>
 Tenho 29 anos.
 - Cursei Entra21 de Desenvolvedor Web
-- Atualmente cursando Técnico em desenolvimento de software no CEDUP
+- Atualmente cursando Técnico em desenvolvimento de software no CEDUP
 
 Para entrar em contato comigo:
 
